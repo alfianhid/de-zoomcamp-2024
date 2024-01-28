@@ -22,12 +22,12 @@ This repository contains files that I made or edit to fulfill my answer for task
 - Answer: 
 
 ## Week 5: Batch Processing
-- Contents: Batch Processing, Spark, Spark Dataframes, Spark SQL, SPark GroupBy and Joins
+- Contents: Batch Processing, Spark, Spark Dataframes, Spark SQL, Spark GroupBy and Joins
 - Homework: 
 - Answer: 
 
 ## Week 6: Streaming Processing
-- Contents: Kafka, Kafka Streams, Kafka Connect and KSQL
+- Contents: Kafka, Kafka Streams, Kafka Connect, and KSQL
 - Homework: 
 - Answer: 
 
