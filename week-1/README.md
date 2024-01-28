@@ -17,6 +17,6 @@ Link to project: https://github.com/alfianhid/de-zoomcamp-2024/tree/master/week-
 - A special acknowledgment goes to Mahendra Okza Pradhana for inspiring me in leveraging Polars over Pandas and offering a fresh perspective on data processing in Python.
 - Furthermore, I extend my sincere gratitude to DataTalksClub and Alexey Grigorev for orchestrating the exceptional Data Engineering Zoomcamp 2024!
 
-The program has proven to be an enriching experience, and I eagerly anticipate the upcoming modules that will undoubtedly further enhance my skills in the data engineering field. It has been a truly enjoyable experience, looking forward to the upcoming modules! 🙌 
+The program has proven to be a highly enriching experience, and I eagerly look forward to the upcoming modules which I am confident will further enhance my skills in the field of data engineering. The journey from Week 1 has been genuinely enjoyable and fulfilling! 🙌 
 
 #DataEngineering #GCP #Docker #Postgres #Terraform #DEZoomcamp #DEZoomcamp2024 #DataTalksClub #DataEngineeringJourney
