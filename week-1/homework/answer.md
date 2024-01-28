@@ -94,7 +94,7 @@ docker run \
 ```
 ```
 SELECT
-	COUNT(1) AS total_taxi_trips_on_jan_18
+	COUNT(1) AS total_taxi_trips_on_sept_18
 FROM
 	public.green_tripdata_2019_09
 WHERE
