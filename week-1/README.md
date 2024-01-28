@@ -16,6 +16,6 @@ The exploration of GCP, Docker, Postgres, and Terraform during Week 1 has signif
 - A special acknowledgment goes to Mahendra Okza Pradhana for providing inspiration on leveraging Polars over Pandas, offering a fresh perspective and enhancing the efficiency of data processing in Python.
 - Additionally, a big thank you to DataTalksClub and Alexey Grigorev for orchestrating the exceptional Data Engineering Zoomcamp 2024!
 
-The program has proven to be an enriching experience, and I eagerly anticipate the upcoming modules that will undoubtedly further enhance my skills in the field. It has been a truly enjoyable experience, looking forward to the upcoming modules.\
+The program has proven to be an enriching experience, and I eagerly anticipate the upcoming modules that will undoubtedly further enhance my skills in the field. It has been a truly enjoyable experience, looking forward to the upcoming modules.
 
 #DataEngineering #GCP #Docker #Postgres #Terraform #DEZoomcamp #DEZoomcamp2024 #DataTalksClub #DataEngineeringJourney
