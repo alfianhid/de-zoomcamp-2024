@@ -5,7 +5,9 @@ Which tag has the following text? - *Automatically remove the container when it 
 - `--rmc`
 - `--rm`
 ### Answer: `--rm`
-### Approach: Read from `docker run --help` or [docker run | Docker Docs](https://docs.docker.com/engine/reference/commandline/run/ "docker run | Docker Docs")
+### Approach: 
+
+Read from `docker run --help` or [docker run | Docker Docs](https://docs.docker.com/engine/reference/commandline/run/ "docker run | Docker Docs")
 
 ## Question 2. Understanding docker first run
 What is version of the package *wheel* ?
