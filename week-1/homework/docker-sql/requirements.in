@@ -1,0 +1,6 @@
+polars
+pandas
+pyarrow
+urllib3
+sqlalchemy
+psycopg2-binary
