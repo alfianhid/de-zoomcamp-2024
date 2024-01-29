@@ -5,7 +5,7 @@
 Data Engineering Zoomcamp 2024! 🚀 \
 Week 1 - Introduction to GCP, Docker, Postgres, and Terraform
 
-## 💻 Overview:
+💻 Overview:
 In Week 1 of Data Engineering Zoomcamp 2024, we delved into the fundamentals of Google Cloud Platform (GCP), Docker containerization, PostgreSQL, and Terraform infrastructure as code. The sessions provided a comprehensive introduction to these essential tools and technologies, laying a strong foundation for the upcoming weeks' deep dives into data engineering concepts.\
 Link to project: https://github.com/alfianhid/de-zoomcamp-2024/tree/master/week-1
 

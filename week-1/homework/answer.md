@@ -146,7 +146,7 @@ WHERE
     AND tzl."Borough" != 'Unknown'
 GROUP BY tzl."Borough"
 HAVING SUM(gtd.total_amount) > 50000
-ORDER BY total_amount_sum DESC
+ORDER BY SUM(gtd.total_amount) DESC
 LIMIT 3;
 ```
 ## Question 6. Largest tip
@@ -172,8 +172,8 @@ WHERE
     DATE(gtd.lpep_pickup_datetime) >= '2019-09-01'
     AND DATE(gtd.lpep_pickup_datetime) < '2019-10-01'
     AND tzl_pickup."Zone" = 'Astoria'
-GROUP BY dropoff_zone_name
-ORDER BY max_tip_amount DESC
+GROUP BY tzl_dropoff."Zone"
+ORDER BY MAX(gtd.tip_amount) DESC
 LIMIT 1;
 ```
 ## Question 7. Creating Resources
