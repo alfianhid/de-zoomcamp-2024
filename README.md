@@ -3,13 +3,13 @@ This repository contains files that I made or edit to fulfill my answer for task
 
 ## Week 1: Introduction and Prerequisites
 - Contents: GCP, Docker, docker-compose, Postgres run with Docker, Terraform
-- Homework: [Homework](https://github.com/alfianhid/de-zoomcamp-2024/blob/master/week-1/homework/homework.md)
+- Homework: [Homework](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/01-docker-terraform/homework.md)
 - Answer: [Answer](https://github.com/alfianhid/de-zoomcamp-2024/blob/master/week-1/homework/answer.md)
 
 ## Week 2: Workflow Orchestration
 - Contents: Data Lake, Workflow orchestration, Mage, ETL
 - Homework: [Homework](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/02-workflow-orchestration/homework.md)
-- Answer: 
+- Answer: [Answer](https://github.com/alfianhid/de-zoomcamp-2024/blob/master/week-2/homework/answer.md)
 
 ## Week 3: Data Warehouse
 - Contents: Data Warehouse, Google BigQuery, Partitioning and Clustering, Internals of BigQuery, BigQuery Machine Learning
