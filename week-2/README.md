@@ -7,7 +7,7 @@ Week 2 - Workflow Orchestration with Mage 🧙‍♂️
 
 💻 Overview:\
 In Week 2 of Data Engineering Zoomcamp 2024, participants delved into the intricate world of Workflow Orchestration with Mage, exploring how to streamline and automate data pipelines with finesse. Through hands-on exercises and immersive lectures, attendees gained invaluable insights into orchestrating complex data workflows, optimizing efficiency, and ensuring seamless data processing from end to end.\
-Link to project: Data Engineering Zoomcamp 2024 - Week 2 Project
+Link to project: https://github.com/alfianhid/de-zoomcamp-2024/tree/master/week-2
 
 💭 Thoughts:
 
