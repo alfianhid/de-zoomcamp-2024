@@ -14,7 +14,7 @@ This repository contains files that I made or edit to fulfill my answer for task
 ## Week 3: Data Warehouse
 - Contents: Data Warehouse, Google BigQuery, Partitioning and Clustering, Internals of BigQuery, BigQuery Machine Learning
 - Homework: [Homework](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/03-data-warehouse/homework.md)
-- Answer: 
+- Answer: [Answer](https://github.com/alfianhid/de-zoomcamp-2024/blob/master/week-3/answer.sql)
 
 ## Week 4: Analytics Engineering
 - Contents: Analytics Engineering, dbt (data build tool), dbt models, Testing and documenting, Deployment to the cloud and locally, Visualizing the data

@@ -21,7 +21,7 @@ services:
       - "6789:6789"
     volumes:
       - .:/home/src/
-      - ./.credentials/alfianhid-projects-service-account.json:/home/src/alfianhid-projects-service-account.json
+      - ./.gcp-credentials/alfianhid-projects-service-account.json:/home/src/alfianhid-projects-service-account.json
     restart: on-failure:5
     networks:
       - de-zoomcamp-network
